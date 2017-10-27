@@ -1,0 +1,1 @@
+A fun game in which you will be given a fixed number of chances and you have to guess the correct football club's name.
