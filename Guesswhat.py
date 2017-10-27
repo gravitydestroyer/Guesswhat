@@ -2,7 +2,7 @@
 
 import random
 
-fr = open('movies.txt','r')
+fr = open('clubs.txt','r')
 movie_name = fr.read()
 movie_name = movie_name.split('\n')
 i = random.randint(0,len(movie_name)-2)
